@@ -1,0 +1,3 @@
+What happens when you resize the screen to 550px? how do you think this works?
+
+What happens is, all the information on the page becomes cleanly arranged into one single column. All the examples and grids neatly form into a stack, rather than trying to fit in next to eachother and creating a jumbled mess which you cant follow. i believe this works due to putting in a media query to change the layout of the page from 3 columns to one column when the screen reaches 550px or less, the reason this happens is for users on small screens, such as tablets or mobile phones, it improves the user exerience as the font will be readable, but also will be tidily arranged as not to creat a mess of the page.
